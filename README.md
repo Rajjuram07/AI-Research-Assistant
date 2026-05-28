@@ -103,7 +103,7 @@ AI Research Response
 
 Centralized AI research workspace providing document upload intelligence, semantic search capabilities, contextual retrieval, and enterprise AI interaction workflows.
 
-![AI Research Assistant](assets/ai_research_assistant.png)
+![AI Research Assistant](screenshots/ai_research_assistant.png)
 
 ---
 
@@ -418,10 +418,5 @@ https://github.com/Rajjuram07/AI-Research-Assistant
 
 # License
 
-This project is intended for educational, research, and AI innovation purposes.
-
 MIT License
 
----
-
-If you find this project useful, consider starring the repository.
